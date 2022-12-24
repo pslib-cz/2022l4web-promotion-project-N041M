@@ -1,0 +1,52 @@
+@import url(./root.css);
+
+/* Custom scrollbar for all browsers */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--fg);
+  border-radius: 15px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--fgF);
+}
+::-webkit-scrollbar-track {
+  background: inherit;
+  border-radius: 15px;
+}
+
+/* Custom scrollbar for Firefox */
+scrollbar {
+  width: 7px;
+  height: 7px;
+}
+scrollbar-thumb {
+  background: var(--fg);
+  border-radius: 15px;
+}
+scrollbar-thumb:hover {
+  background: var(--fgF);
+}
+scrollbar-track {
+  background: inherit;
+  border-radius: 15px;
+}
+
+/* Custom scrollbar for Internet Explorer */
+::-ms-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+::-ms-scrollbar-thumb {
+  background: var(--fg);
+  border-radius: 15px;
+}
+::-ms-scrollbar-thumb:hover {
+  background: var(--fgF);
+}
+::-ms-scrollbar-track {
+  background: inherit;
+  border-radius: 15px;
+}

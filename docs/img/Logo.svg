@@ -1,0 +1,11 @@
+<svg width="300" height="188" viewBox="0 0 300 188" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Logo">
+<path id="Rectangle 1" d="M149.505 0H242.574V0C274.608 1.11565 300 27.4075 300 59.4606V94V188H149.505V0Z" fill="#9A5DE5"/>
+<path id="Rectangle 2" d="M209.901 183.105C209.901 133.504 250.402 93.4495 300 94V94V188H209.901V183.105Z" fill="#00BBFA"/>
+<path id="Rectangle 3" d="M254.455 188C254.455 162.791 274.792 142.277 300 142V142V188H254.455V188Z" fill="#00F5D4"/>
+<path id="Rectangle 4" d="M89.6081 95H149.505V188V188C116.121 187.725 89.2547 160.49 89.4348 127.105L89.6081 95Z" fill="#FEE43E"/>
+<ellipse id="Ellipse 1" cx="104.455" cy="48.5" rx="45.0495" ry="45.5" fill="#F5F5F5"/>
+<path id="Rectangle 5" d="M0 0H60.396V95V95C27.0402 95 0 67.9598 0 34.604V0Z" fill="#B0BEC4"/>
+<path id="Rectangle 6" d="M0 95H43.599C69.2803 95 90.099 115.819 90.099 141.5V141.5C90.099 167.181 69.2802 188 43.599 188H0V95Z" fill="#F15BB5"/>
+</g>
+</svg>
