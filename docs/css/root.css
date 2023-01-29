@@ -1,0 +1,93 @@
+:root {
+    --bg: hsl(223, 10%, 90%);
+    --fg: hsl(228, 10%, 10%);
+        /* ===================== */
+    --white:hsl(0, 0%, 96%);
+    --grey:hsl(199, 14%, 73%);
+    --yellow:hsl(52, 99%, 62%);
+    --blue:hsl(195, 100%, 49%);
+    --green:hsl(172, 100%, 48%);
+    --pink:hsl(333, 84%, 65%);
+    --purple:hsl(267, 72%, 63%);
+        /* ===================== */
+    --bgF: hsla(228, 10%, 90%, 0.7);
+    --fgF: hsl(228, 10%, 10%, 0.7);
+    --yellowF:hsla(52, 99%, 62%, 0.5);
+    --blueF:hsl(195, 100%, 49%, 0.5);
+    --greenF:hsl(172, 100%, 48%, 0.5);
+    --pinkF:hsl(324, 84%, 65%, 0.5);
+    --purpleF:hsl(267, 72%, 63%, 0.5);
+        /* ===================== */
+    --nav_border: 0rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* --bg: hsl(223, 10%, 10%);
+        --fg: hsl(223, 10%, 90%);
+        --fgF: hsla(228, 10%, 90%, 0.7);
+        --bgF: hsl(228, 10%, 10%, 0.7); */
+            /* ===================== */
+        --yellowF:hsla(52, 99%, 62%, 0.75);
+        --blueF:hsl(195, 100%, 49%, 0.75);
+        --greenF:hsl(172, 100%, 48%, 0.75);
+        --pinkF:hsl(324, 84%, 65%, 0.75);
+        --purpleF:hsl(267, 72%, 63%, 0.75);
+    }
+}
+
+.white-bg {
+    background-color: var(--white);
+}
+
+.grey-bg {
+    background-color: var(--grey);
+}
+
+.yellow-bg {
+    background-color: var(--yellow);
+}
+
+.blue-bg {
+    background-color: var(--blue);
+}
+
+.green-bg {
+    background-color: var(--green);
+}
+
+.pink-bg {
+    background-color: var(--pink);
+}
+
+.purple-bg {
+    background-color: var(--purple);
+}
+
+.white {
+    color: var(--white);
+}
+
+.grey {
+    color: var(--grey);
+}
+
+.yellow {
+    color: var(--yellow);
+}
+
+.blue {
+    color: var(--blue);
+}
+
+.green {
+    color: var(--green);
+}
+
+.pink {
+    color: var(--pink);
+}
+
+.purple {
+    color: var(--purple);
+}
